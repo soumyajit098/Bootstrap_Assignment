@@ -1,0 +1,61 @@
+.section{
+    background-color: skyblue;
+    height: 250px;
+
+}
+.topnav .search-container button{
+    background-color: whitesmoke;
+    text-align: left;
+}
+.skills{
+    background-color: whitesmoke;
+}
+
+.card{
+    background-color: whitesmoke;
+    padding: 25px;
+}
+.card_2{
+    padding: 25px;
+    background-color: grey;
+}
+.card_3{
+    background-color: white;
+    padding: 15px;
+}
+.card_4{
+    background-color: whitesmoke;
+    padding: 15px;
+}
+.fa-desktop{
+    color: gold;
+    
+}
+.fa-edit{
+    color: gold;
+}
+.fa-cogs{
+    color: gold;
+    
+    align-content: center;
+
+}
+
+.footer{
+
+    background-color:grey;
+    color: white;
+}
+
+.fa-facebook-square{
+    color: royalblue;
+}
+.fa-google-plus{
+    color: red;
+}
+.fa-twitter{
+    color: royalblue;
+}
+.fa-youtube{
+    color: red;
+}
